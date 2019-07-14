@@ -1,0 +1,48 @@
+.cmb-th span,
+span.pro {
+  color: red;
+}
+
+[aria-describedby="rcbwb_dialog"] {
+  text-align: center;
+  z-index: 9999;
+}
+[aria-describedby="rcbwb_dialog"] .dashicons-before::before {
+  font-size: 100px;
+  width: 100px;
+  height: 100px;
+}
+[aria-describedby="rcbwb_dialog"] a:focus {
+  outline: none;
+  box-shadow: none;
+}
+[aria-describedby="rcbwb_dialog"] .dashicons-dismiss {
+  text-align: center;
+}
+.welcomebar_pro_details p {
+  font-size: 20px;
+}
+.welcomebar_pro_details a {
+  text-decoration: none;
+}
+.welcomebar_pro_details .buy_pro {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  font-size: 20px;
+  display: inline-block;
+}
+.welcomebar_pro_details .banner {
+  display: block;
+}
+.dashicons-dismiss,
+.dashicons-before .dashicons-dismiss {
+  color: red;
+}
+
+#poststuff #post-body.columns-2 {
+  margin-right: 350px;
+}
+
+.postbox {
+  min-width: 350px;
+}
