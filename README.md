@@ -1,4 +1,5 @@
 #  WelcomeBar - Wp Notification Bar
+WelcomeBar - Wp Notification Bar 
 Contributors: roundcodeboxteam
 Tags: wordpress notification bar,notification,notification bar,offer bar,promotion bar
 Requires at least: 4.6
@@ -66,22 +67,22 @@ Feel free to [Contact us](http://www.roundcodebox.com/support/)
 # Installation 
 This section describes how to install the WelcomeBar – WordPress Notification Bar plugin and get it working.
 
-# 1) Install 
+## 1) Install 
 
-# Modern Way: 
+### Modern Way: 
 1. Go to the WordPress Dashboard "Add New Plugin" section.
 2. Search For "WelcomeBar".
 3. Install, then Activate it.
 
-# Manual Upload Way:
+### Manual Upload Way:
 1. Unzip (if it is zipped) and Upload `welcomebar-wp-notification-bar ` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
-# 2) Configure 
+## 2) Configure 
 1. After install and activate the plugin you will be redirect to the welcome screen of the WelcomeBar - Wp Notification Bar plugin. This page will list all the features of the WelcomeBar - Wp Notification Bar plugin. 
 2. Create new WelcomeBar and relax!
 
-# Screenshots 
+## Screenshots 
 1.  Screenshot 1 - About WelcomeBar Pro Notifications Bar
 2.  Screenshot 2 - Notification bars
 3.  Screenshot 3 - Add New Notification bars
