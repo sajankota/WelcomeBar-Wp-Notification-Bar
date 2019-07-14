@@ -1,5 +1,5 @@
 #  WelcomeBar - Wp Notification Bar
-WelcomeBar - Wp Notification Bar 
+WelcomeBar - Wp Notification Bar
 Contributors: roundcodeboxteam
 Tags: wordpress notification bar,notification,notification bar,offer bar,promotion bar
 Requires at least: 4.6
