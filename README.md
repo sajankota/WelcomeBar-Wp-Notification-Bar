@@ -19,6 +19,7 @@ A WordPress plugin for adding great looking notification bars to your site. With
 The WelcomeBar - Wp Notification Bar plugin is highly compatible and works with any “well coded” WordPress themes (Free or Premium). It is responsive, Search Engine Optimized (SEO) and secure!
 
 Not only that, it has more appealing features stored in for you. Download it now! 
+
 [Homepage](http://www.roundcodebox.com/) | [Product Page](http://www.roundcodebox.com/welcomebar-wp-notification-bar/) | [Demo](http://www.roundcodebox.com/welcomebar-wp-notification-bar-demo/welcomebar-wp-notification-bar-demo/) | [Documentation](http://www.roundcodebox.com/documentation-for-welcomebar-wp-notification-bar/) | [Premium Version](http://www.roundcodebox.com/welcomebar-wp-notification-bar-pro/) |  [Support](http://www.roundcodebox.com/support/)
 
 
